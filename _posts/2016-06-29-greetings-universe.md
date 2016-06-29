@@ -1,7 +1,7 @@
 ---
 description: This is a sample post on The Grid. What else am I supposed to say here?
-dateModified: '2016-06-29T17:22:43.869Z'
-datePublished: '2016-06-29T17:22:47.965Z'
+dateModified: '2016-06-29T17:21:44.678Z'
+datePublished: '2016-06-29T17:22:43.372Z'
 title: Greetings Universe
 author: []
 sourcePath: _posts/2016-06-29-greetings-universe.md
